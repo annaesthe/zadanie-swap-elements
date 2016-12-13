@@ -1,0 +1,50 @@
+body {
+    background-color: beige;
+}
+
+div#kontener {
+    text-align: center;
+}
+
+
+#button1, #button2 {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 3%;
+    cursor: pointer;
+}
+
+.buttons:hover {
+    background-color: darkseagreen;
+}
+
+p {
+    font-size: 18px;
+
+}
+
+#para1 {
+    color: crimson;
+}
+
+#para2 {
+    color: lightcoral;
+}
+
+#para3 {
+    color: dodgerblue;
+}
+
+#para4 {
+    color: limegreen;
+}
+
+#para5 {
+    color: lightyellow;
+}
